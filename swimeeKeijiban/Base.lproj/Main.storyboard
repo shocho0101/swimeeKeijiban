@@ -101,6 +101,7 @@
                     <connections>
                         <outlet property="commentTextField" destination="wMP-0J-jVT" id="Jwu-Zx-2Fb"/>
                         <outlet property="nameTextField" destination="FpV-Rm-Th1" id="Sla-DA-IbR"/>
+                        <outlet property="tableView" destination="iFu-od-AuJ" id="vQ8-WY-vI2"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

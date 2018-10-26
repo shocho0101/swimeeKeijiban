@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>483070147333-burclvatk2n461559nen6o1rcl2a9mi5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.483070147333-burclvatk2n461559nen6o1rcl2a9mi5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxAbOvHQ84Fhg91otXoWXUtMdnp9-sPwE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>483070147333</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jp.choccho.swimeeKeijiban</string>
+	<key>PROJECT_ID</key>
+	<string>swimeekeijiban</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swimeekeijiban.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:483070147333:ios:90b2c4f1afacbe42</string>
+	<key>DATABASE_URL</key>
+	<string>https://swimeekeijiban.firebaseio.com</string>
+</dict>
+</plist>
