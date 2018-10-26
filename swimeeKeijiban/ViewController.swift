@@ -35,6 +35,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                 return
             }
             
+            
             snapshot.documentChanges.forEach { diff in
                 if (diff.type == .added) {
                     let data = diff.document.data()
